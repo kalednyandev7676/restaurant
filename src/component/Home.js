@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from"react";
-import"../styles/Home.scss";
- import menudata from"../json Api file/menu.json";
+import React, { useEffect, useState } from "react";
+import "../styles/Home.scss";
+import menudata from "../json Api file/menu.json";
 import Menu from "./Menu";
 
 
