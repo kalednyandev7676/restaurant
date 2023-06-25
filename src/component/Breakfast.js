@@ -5,7 +5,7 @@ import "../styles/Breakfast.scss";
 const Breakfast = () => {
     return (
         <>
-            <h1>this is breakfast component</h1>
+            <h1>Breakfast Component</h1>
         </>
     )
 }
