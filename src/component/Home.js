@@ -4,29 +4,28 @@ import"../styles/Home.scss";
 import Menu from "./Menu";
 
 
-const Home=()=>
-{
-    const [menuData,setMenuData]=useState(menudata);
-    const filteritem=(Argument)=>{
-        let requiredlist=menudata.filter((curEle)=>{
-                   return(curEle.categary===Argument)
-               });
-             setMenuData(requiredlist);
-            };
+const Home = () => {
+    const [menuData, setMenuData] = useState(menudata);
+    const filteritem = (Argument) => {
+        let requiredlist = menudata.filter((curEle) => {
+            return (curEle.categary === Argument)
+        });
+        setMenuData(requiredlist);
+    };
 
-            useEffect(() => {
-                document.title = 'Restaurant - HOME';
-              }, []);
- return(
+    useEffect(() => {
+        document.title = 'Restaurant - HOME';
+    }, []);
+    return (
         <>
             <div className="btn_head_list">
-                <button onClick={()=>filteritem("Breakfast")}>breakfast</button>
-                <button onClick={()=>filteritem("Lunch")}>lunch</button>
-                <button onClick={()=>filteritem("dinner")}>dinner</button>
-                <button onClick={()=>setMenuData(menudata)}>All-item</button>
+                <button onClick={() => filteritem("Breakfast")}>breakfast</button>
+                <button onClick={() => filteritem("Lunch")}>lunch</button>
+                <button onClick={() => filteritem("dinner")}>dinner</button>
+                <button onClick={() => setMenuData(menudata)}>All-item</button>
             </div>
-             <Menu menudata={menuData}/>
+            <Menu menudata={menuData} />
         </>
-        )
+    )
 }
 export default Home;

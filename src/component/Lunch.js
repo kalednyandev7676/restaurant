@@ -1,10 +1,9 @@
-import React from"react";
-import"../styles/Lunch.scss";
+import React from "react";
+import "../styles/Lunch.scss";
 
 
-const Lunch=()=>
-{
-    return(
+const Lunch = () => {
+    return (
         <>
             <h1>this is home component</h1>
         </>
