@@ -1,0 +1,66 @@
+@import"./color.scss";
+
+.card-container
+{
+    height: 500px;
+    width:45%;
+    //background-color: $third;
+   // padding:4rem;
+   margin: 2rem;
+    display:block;
+    float: left;
+
+.card-number
+{
+    border: 1px solid $dark;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+    padding-right: 3px;
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-author
+{
+    color: red;
+    text-transform: uppercase;
+    margin-top: 10px;
+    font:500 1.2rem $text2;
+    letter-spacing: 1.5px;
+
+}
+.card-title
+{
+    text-transform: capitalize;
+    font: 900 4rem $text1;
+} 
+.card-tag
+{
+    display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+    font: 500 1.2rem $text2;
+    border: 2px solid $dark;
+    padding: 2px;
+    text-align: center;
+    color: $third;
+    &:hover
+    {
+        color: green;
+        cursor: pointer;
+        
+    }
+}
+
+}
+.btn_head_list
+{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    
+}

@@ -1,0 +1,29 @@
+@import"../styles/color.scss";
+
+.navbar
+{
+   height: 100px;
+   width: 100%;
+   background-color: $second;
+    
+ 
+   ul
+   {
+    list-style-type: none;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+   // padding:2rem;
+   //text-decoration:none ;
+   color:$first;
+   
+
+
+    li{
+        text-decoration: none;
+        padding: 2rem;
+        color:$first;
+
+    }
+   }
+}

@@ -1,0 +1,145 @@
+[
+    {
+        "id":1,
+        "image":"images/b2.jpg",
+        "menu":"Maggi",
+        "categary":"Breakfast",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    
+    {
+        "id":2,
+        "image":"images/b3.jpg",
+        "menu":"cheeze",
+        "categary":"Breakfast",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    
+    {
+        "id":3,
+        "image":"images/b4.jpg",
+        "menu":"Roti",
+        "categary":"Breakfast",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    
+    {
+        "id":4,
+        "image":"images/b4.jpg",
+        "menu":"cheeze",
+        "categary":"Breakfast",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":5,
+        "image":"images/b5.jpg",
+        "menu":"chapatti",
+        "categary":"Breakfast",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    
+    {
+        "id":6,
+        "image":"images/b6.jpg",
+        "menu":"rice",
+        "categary":"Breakfast",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":7,
+        "image":"images/l1.jpg",
+        "menu":"rice",
+        "categary":"Lunch",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":8,
+        "image":"images/l2.jpg",
+        "menu":"rice",
+        "categary":"Lunch",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":9,
+        "image":"images/l5.jpg",
+        "menu":"rice",
+        "categary":"Lunch",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":10,
+        "image":"images/l4.jpg",
+        "menu":"rice",
+        "categary":"Lunch",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":11,
+        "image":"images/l5.jpg",
+        "menu":"rice",
+        "categary":"Lunch",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":12,
+        "image":"images/l6.jpg",
+        "menu":"rice",
+        "categary":"Lunch",
+        "prise":"12rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":13,
+        "image":"images/d1.jpg",
+        "menu":"rice",
+        "categary":"dinner",
+        "prise":"123rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":14,
+        "image":"images/d2.jpg",
+        "menu":"rice",
+        "categary":"dinner",
+        "prise":"153rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":15,
+        "image":"images/d3.jpg",
+        "menu":"rice",
+        "categary":"dinner",
+        "prise":"123rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":16,
+        "image":"images/d4.jpg",
+        "menu":"rice",
+        "categary":"dinner",
+        "prise":"123rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    },
+    {
+        "id":17,
+        "image":"images/d5.jpg",
+        "menu":"rice",
+        "categary":"dinner",
+        "prise":"123rs",
+        "discription":"i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair..i love maggi...its test is very testy after prepair"
+    }
+    
+    
+
+]
